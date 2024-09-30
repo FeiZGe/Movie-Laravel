@@ -10,11 +10,11 @@
     <!-- Tailwind -->
     @vite('resources/css/app.css')
 </head>
-<body>
+<body class="font-poppins">
     <nav>
         proo
     </nav>
-    <main class="container py-4 px-2">
+    <main class="container mx-auto px-6 py-3">
         @yield('content')
     </main>
     <footer>
