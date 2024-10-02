@@ -13,3 +13,6 @@
 ## Rating
 - IMDb 7.5/10
 - Rotten Tomatoes 86%
+
+## Trailer
+https://youtu.be/k10ETZ41q5o?feature=shared
